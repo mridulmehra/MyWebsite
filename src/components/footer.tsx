@@ -13,7 +13,7 @@ const Footer = () => {
           </Button>
           <Button size={"sm"} variant={"link"} asChild>
             <Link href={"https://leetcode.com/u/Mridulmehra/"} target="_blank">
-              Twitter/X
+              Leetcode
             </Link>
           </Button>
         </div>
