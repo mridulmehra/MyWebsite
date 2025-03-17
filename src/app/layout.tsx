@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   ],
   icons: [
     {
-      url: "/photo.jpeg",
-      href: "/photo.jpeg",
+      url: "/mridul.jpeg",
+      href: "/mridul.jpeg",
     },
   ],
   description: "Mridul's personal portfolio website",
