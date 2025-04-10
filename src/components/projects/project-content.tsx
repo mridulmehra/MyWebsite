@@ -26,7 +26,7 @@ export const projectsContent: projectData[] = [
     link: {
       github: "https://github.com/mridulmehra/CyberGaurd",
       youtube: "",
-      live: "https://cybergaurd.onrender.com",
+      live: "https://safechat.replit.app/",
     },
   },
 
